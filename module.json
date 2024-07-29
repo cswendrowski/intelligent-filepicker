@@ -1,0 +1,57 @@
+{
+  "id": "intelligent-filepicker",
+  "title": "Intelligent Filepicker",
+  "description": "Pick files intelligently - Portraits, Tokens, Icons, and more!",
+  "version": "#{VERSION}#",
+  "library": "false",
+  "manifestPlusVersion": "1.2.0",
+  "persistentStorage": true,
+  "compatibility": {
+    "minimum": 10,
+    "verified": 12
+  },
+  "authors": [
+    {
+      "name": "Cody Swendrowski",
+      "discord": "cswendrowski#9701"
+    },
+    {
+      "name": "Roman Trevisanut",
+      "discord": "Cobalt#7779"
+    }
+  ],
+  "relationships": {
+    "systems": [],
+    "requires": []
+  },
+  "esmodules": [
+    "scripts/intelligent-filepicker.mjs"
+  ],
+  "scripts": [
+  ],
+  "styles": [
+    "styles/intelligent-filepicker.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "packs": [
+  ],
+  "flags": {
+    "hotReload": {
+      "extensions": ["css", "hbs", "json"],
+      "paths": ["styles", "templates", "languages"]
+    }
+  },
+  "private": false,
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "license": "LICENSE",
+  "readme": "README.md",
+  "media": []
+}

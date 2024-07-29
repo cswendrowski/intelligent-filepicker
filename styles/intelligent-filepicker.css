@@ -1,0 +1,31 @@
+.filepicker-header .tabs .intelligent-filepicker.active {
+  text-shadow: 0 0 10px var(--color-shadow-primary);
+}
+
+.intelligent-filepicker-enabled .directory.folders-list {
+  display: none;
+}
+.intelligent-filepicker-enabled .current-dir {
+  display: none;
+}
+.intelligent-filepicker-enabled .favorites {
+  display: none;
+}
+.intelligent-filepicker-enabled .file {
+  display: block !important;
+}
+.intelligent-filepicker-enabled .files-list {
+  display: grid !important;
+}
+.intelligent-filepicker-enabled progress {
+  width: 100%;
+}
+
+.intelligent-folder-locations .files-list {
+  max-height: 300px;
+}
+.intelligent-folder-locations .folders > .label {
+  flex: 2.6;
+}
+
+/*# sourceMappingURL=intelligent-filepicker.css.map */

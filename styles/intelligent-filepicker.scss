@@ -1,0 +1,45 @@
+.filepicker-header {
+  .tabs {
+    .intelligent-filepicker {
+      &.active {
+        text-shadow: 0 0 10px var(--color-shadow-primary);
+      }
+    }
+  }
+}
+
+.intelligent-filepicker-enabled {
+  .directory.folders-list {
+    display: none;
+  }
+  .current-dir {
+    display: none;
+  }
+  .favorites {
+    display: none;
+  }
+
+  .file {
+    display: block !important;
+  }
+
+  .files-list {
+    display: grid !important;
+  }
+
+  progress {
+    width: 100%;
+  }
+}
+
+.intelligent-folder-locations {
+  .files-list {
+    max-height: 300px;
+  }
+
+  .folders {
+    > .label {
+      flex: 2.6;
+    }
+  }
+}
