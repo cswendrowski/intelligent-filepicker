@@ -13,4 +13,6 @@
 
 Intelligent Filepicker makes it fast and easy to pick icons for your Items, portraits for your PCs, and tokens for your monsters.
 
+![intelligent-filepicker](https://github.com/user-attachments/assets/a95989b5-5760-48de-974e-d1c57fe51247)
+
 ![intelligent-filepicker-preview](https://github.com/user-attachments/assets/b16b29a0-4f3e-456b-91e4-0e65ecce0a44)
