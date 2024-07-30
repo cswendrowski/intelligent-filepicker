@@ -41,6 +41,12 @@
   ],
   "packs": [
   ],
+  "media": [
+    {
+      "type": "setup",
+      "url": "https://github.com/cswendrowski/intelligent-filepicker/blob/main/intelligent-filepicker.png?raw=true",
+    }
+  ],
   "flags": {
     "hotReload": {
       "extensions": ["css", "hbs", "json"],
